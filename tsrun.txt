@@ -1,0 +1,2 @@
+npm i -g ts-node-dev 
+ts-node-dev --respawn --transpile-only .\assignmenty\src\problem-8.ts
